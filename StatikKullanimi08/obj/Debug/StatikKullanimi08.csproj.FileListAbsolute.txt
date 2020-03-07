@@ -1,0 +1,6 @@
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\StatikKullanimi08\bin\Debug\StatikKullanimi08.exe.config
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\StatikKullanimi08\bin\Debug\StatikKullanimi08.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\StatikKullanimi08\bin\Debug\StatikKullanimi08.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\StatikKullanimi08\obj\Debug\StatikKullanimi08.csprojAssemblyReference.cache
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\StatikKullanimi08\obj\Debug\StatikKullanimi08.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\StatikKullanimi08\obj\Debug\StatikKullanimi08.pdb

@@ -1,0 +1,6 @@
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Abstract-Nedir\bin\Debug\Abstract-Nedir.exe.config
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Abstract-Nedir\bin\Debug\Abstract-Nedir.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Abstract-Nedir\bin\Debug\Abstract-Nedir.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Abstract-Nedir\obj\Debug\Abstract-Nedir09.csprojAssemblyReference.cache
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Abstract-Nedir\obj\Debug\Abstract-Nedir.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Abstract-Nedir\obj\Debug\Abstract-Nedir.pdb

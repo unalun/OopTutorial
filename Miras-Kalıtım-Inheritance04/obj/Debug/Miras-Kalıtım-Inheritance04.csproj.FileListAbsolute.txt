@@ -1,0 +1,6 @@
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Miras-Kalıtım-Inheritance04\bin\Debug\Miras-Kalıtım-Inheritance04.exe.config
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Miras-Kalıtım-Inheritance04\bin\Debug\Miras-Kalıtım-Inheritance04.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Miras-Kalıtım-Inheritance04\bin\Debug\Miras-Kalıtım-Inheritance04.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Miras-Kalıtım-Inheritance04\obj\Debug\Miras-Kalıtım-Inheritance04.csprojAssemblyReference.cache
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Miras-Kalıtım-Inheritance04\obj\Debug\Miras-Kalıtım-Inheritance04.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Miras-Kalıtım-Inheritance04\obj\Debug\Miras-Kalıtım-Inheritance04.pdb

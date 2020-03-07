@@ -1,0 +1,5 @@
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Cok-bicimlilik-Polymorphism05\bin\Debug\Cok-bicimlilik-Polymorphism05.exe.config
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Cok-bicimlilik-Polymorphism05\bin\Debug\Cok-bicimlilik-Polymorphism05.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Cok-bicimlilik-Polymorphism05\bin\Debug\Cok-bicimlilik-Polymorphism05.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Cok-bicimlilik-Polymorphism05\obj\Debug\Cok-bicimlilik-Polymorphism05.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Cok-bicimlilik-Polymorphism05\obj\Debug\Cok-bicimlilik-Polymorphism05.pdb

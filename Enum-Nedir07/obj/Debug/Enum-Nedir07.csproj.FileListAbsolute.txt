@@ -1,0 +1,5 @@
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Enum-Nedir07\bin\Debug\Enum-Nedir07.exe.config
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Enum-Nedir07\bin\Debug\Enum-Nedir07.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Enum-Nedir07\bin\Debug\Enum-Nedir07.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Enum-Nedir07\obj\Debug\Enum-Nedir07.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Enum-Nedir07\obj\Debug\Enum-Nedir07.pdb

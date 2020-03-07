@@ -1,0 +1,6 @@
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SealedClass-Nedir10\bin\Debug\SealedClass-Nedir10.exe.config
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SealedClass-Nedir10\bin\Debug\SealedClass-Nedir10.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SealedClass-Nedir10\bin\Debug\SealedClass-Nedir10.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SealedClass-Nedir10\obj\Debug\SealedClass-Nedir10.csprojAssemblyReference.cache
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SealedClass-Nedir10\obj\Debug\SealedClass-Nedir10.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SealedClass-Nedir10\obj\Debug\SealedClass-Nedir10.pdb

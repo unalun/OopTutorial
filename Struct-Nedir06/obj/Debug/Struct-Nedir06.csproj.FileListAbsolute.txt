@@ -1,0 +1,6 @@
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Struct-Nedir06\bin\Debug\Struct-Nedir06.exe.config
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Struct-Nedir06\bin\Debug\Struct-Nedir06.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Struct-Nedir06\bin\Debug\Struct-Nedir06.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Struct-Nedir06\obj\Debug\Struct-Nedir06.csprojAssemblyReference.cache
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Struct-Nedir06\obj\Debug\Struct-Nedir06.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Struct-Nedir06\obj\Debug\Struct-Nedir06.pdb

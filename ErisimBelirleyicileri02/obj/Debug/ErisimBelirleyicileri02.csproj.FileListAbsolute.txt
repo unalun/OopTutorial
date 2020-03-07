@@ -1,0 +1,6 @@
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\ErisimBelirleyicileri02\bin\Debug\ErisimBelirleyicileri02.exe.config
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\ErisimBelirleyicileri02\bin\Debug\ErisimBelirleyicileri02.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\ErisimBelirleyicileri02\bin\Debug\ErisimBelirleyicileri02.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\ErisimBelirleyicileri02\obj\Debug\ErisimBelirleyicileri02.csprojAssemblyReference.cache
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\ErisimBelirleyicileri02\obj\Debug\ErisimBelirleyicileri02.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\ErisimBelirleyicileri02\obj\Debug\ErisimBelirleyicileri02.pdb

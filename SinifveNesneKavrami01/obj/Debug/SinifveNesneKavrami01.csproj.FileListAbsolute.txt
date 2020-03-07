@@ -1,0 +1,6 @@
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SinifveNesneKavrami01\bin\Debug\SinifveNesneKavrami01.exe.config
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SinifveNesneKavrami01\bin\Debug\SinifveNesneKavrami01.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SinifveNesneKavrami01\bin\Debug\SinifveNesneKavrami01.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SinifveNesneKavrami01\obj\Debug\SinifveNesneKavrami01.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SinifveNesneKavrami01\obj\Debug\SinifveNesneKavrami01.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\SinifveNesneKavrami01\obj\Debug\SinifveNesneKavrami01.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Interface-Kullanimi10\bin\Debug\Interface-Kullanimi10.exe.config
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Interface-Kullanimi10\bin\Debug\Interface-Kullanimi10.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Interface-Kullanimi10\bin\Debug\Interface-Kullanimi10.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Interface-Kullanimi10\obj\Debug\Interface-Kullanimi10.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Interface-Kullanimi10\obj\Debug\Interface-Kullanimi10.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Interface-Kullanimi10\obj\Debug\Interface-Kullanimi10.csprojAssemblyReference.cache

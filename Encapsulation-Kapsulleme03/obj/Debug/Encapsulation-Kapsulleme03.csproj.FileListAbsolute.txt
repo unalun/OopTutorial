@@ -1,0 +1,6 @@
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Encapsulation-Kapsulleme03\bin\Debug\Encapsulation-Kapsulleme03.exe.config
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Encapsulation-Kapsulleme03\bin\Debug\Encapsulation-Kapsulleme03.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Encapsulation-Kapsulleme03\bin\Debug\Encapsulation-Kapsulleme03.pdb
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Encapsulation-Kapsulleme03\obj\Debug\Encapsulation-Kapsulleme03.csprojAssemblyReference.cache
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Encapsulation-Kapsulleme03\obj\Debug\Encapsulation-Kapsulleme03.exe
+D:\Projeler\BilgeAdam\BilgeAdam-OOP-Egitimi-01\Encapsulation-Kapsulleme03\obj\Debug\Encapsulation-Kapsulleme03.pdb
